@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lll/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ACI21/count.svg?"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -73,7 +73,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/a-carrillo-ibanez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -82,12 +82,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="auto" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lll/lll/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ACI21/ACI21/output/snake.svg" alt="Snake animation" />
 
 ###
