@@ -82,10 +82,10 @@
 
 ###
 
-<img align="right" height="auto" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="225" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/ACI21/ACI21/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lll/lll/output/snake.svg" alt="Snake animation" />
 
 ###
