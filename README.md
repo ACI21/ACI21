@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lll/lll/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ACI21/ACI21/output/snake.svg" alt="Snake animation" />
 
 ###
